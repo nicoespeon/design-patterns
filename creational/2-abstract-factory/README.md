@@ -2,6 +2,9 @@
 
 Produces families of related objects without specifying their concrete classes.
 
+
+See https://refactoring.guru/design-patterns/abstract-factory
+
 ## When to use?
 
 When we have many things that have different "types" and we can't use any random combination of them. Things should be created with a coherent "type".
