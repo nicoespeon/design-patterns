@@ -2,6 +2,8 @@
 
 Turns a request into a stand-alone object that contains all information about the request. This transformation lets you parameterize methods with different requests, delay or queue a request’s execution, and support undoable operations.
 
+See https://refactoring.guru/design-patterns/command
+
 ## When to use?
 
 In JavaScript, we can essentially encapsulate an operation in a function. A **Command** turns that function into a class with one method: `execute()`.
