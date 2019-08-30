@@ -2,6 +2,8 @@
 
 Ensures that a class has only one instance, while providing a global access point to this instance.
 
+See https://refactoring.guru/design-patterns/singleton
+
 ## When to use?
 
 When having 2 instances of the class will create bugs (security, data corruption, etc.).
