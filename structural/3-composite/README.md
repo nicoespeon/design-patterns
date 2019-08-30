@@ -2,6 +2,8 @@
 
 Composes objects into tree structures and then work with these structures as if they were individual objects.
 
+See https://refactoring.guru/design-patterns/composite
+
 ## When to use?
 
 When you can find a recursive algorithm that would treat every element the same way.
