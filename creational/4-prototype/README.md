@@ -2,6 +2,8 @@
 
 Copies existing objects without making your code dependent on their classes.
 
+See https://refactoring.guru/design-patterns/prototype
+
 ## When to use?
 
 When you need to clone an object so you don't mutate the original instance.
