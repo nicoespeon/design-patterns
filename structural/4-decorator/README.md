@@ -2,6 +2,8 @@
 
 Attaches new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
 
+See https://refactoring.guru/design-patterns/decorator
+
 ## When to use?
 
 When you can need to add behaviour "before" or "after" an existing code.
