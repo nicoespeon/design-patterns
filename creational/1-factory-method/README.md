@@ -2,6 +2,8 @@
 
 Provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
 
+See https://refactoring.guru/design-patterns/factory-method
+
 ## When to use?
 
 When we have different "types" of the same thing that we need to create. We can smell the problem when the conditional logic for creating it is spread across the codebase.
