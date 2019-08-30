@@ -2,6 +2,8 @@
 
 Provides a substitute or placeholder for another object. A proxy controls access to the original object, allowing you to perform something either before or after the request gets through to the original object.
 
+See https://refactoring.guru/design-patterns/proxy
+
 ## When to use?
 
 When you need to intercept requests before they hit the actual class. This leads to a lot of different use-cases.
