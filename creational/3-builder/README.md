@@ -2,6 +2,8 @@
 
 Constructs complex objects step by step. Allows you to produce different types and representations of an object using the same construction code.
 
+See https://refactoring.guru/design-patterns/builder
+
 ## When to use?
 
 Very useful to build a semantic API to build something.
