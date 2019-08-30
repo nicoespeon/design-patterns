@@ -2,6 +2,8 @@
 
 Allows objects with incompatible interfaces to collaborate.
 
+See https://refactoring.guru/design-patterns/adapter
+
 ## When to use?
 
 Very common pattern to provide different concrete implementations of the same interface.
