@@ -2,6 +2,8 @@
 
 Provides a simplified interface to a library, a framework, or any other complex set of classes.
 
+See https://refactoring.guru/design-patterns/facade
+
 ## When to use?
 
 When the API we need to use is more complex than we need, and we can't change it.
